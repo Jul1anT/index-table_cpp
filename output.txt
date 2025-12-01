@@ -1,0 +1,6 @@
+101 Juan 2500.50 Ingeniero
+103 Carlos 1800.00 Analista
+No encontrado
+104 Ana 4500.25 Director
+102 Maria 3200.75 Gerente
+No encontrado
