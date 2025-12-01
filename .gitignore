@@ -1,0 +1,8 @@
+# Compiled binaries
+main
+*.o
+*.out
+
+# Temporary files
+*.tmp
+/tmp/

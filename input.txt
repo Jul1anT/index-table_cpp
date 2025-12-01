@@ -1,0 +1,13 @@
+5
+101 Juan 2500.50 Ingeniero
+102 Maria 3200.75 Gerente
+103 Carlos 1800.00 Analista
+104 Ana 4500.25 Director
+105 Pedro 2100.00 Tecnico
+6
+1 101
+1 103
+1 106
+1 104
+1 102
+1 999
